@@ -1,8 +1,8 @@
 package com.workintech.s13d4;
 
 public class Point {
-    protected int x;
-    protected int y;
+    private int x;
+    private int y;
 
     public Point(int x, int y){
         this.x = x;
